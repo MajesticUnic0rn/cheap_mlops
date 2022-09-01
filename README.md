@@ -12,3 +12,4 @@ establish all the images for everything
 5) preprocess data within dag save feature into feast
 6) batch run predict and save within feast as prediction_feature (usecase, model:sub-model relationship
 
+Honestly you can start putting random stuff inside like a recommendation engine 
